@@ -1,0 +1,6 @@
+{
+  "name": "SGB AGRO INDUSTRIES",
+  "description": "Modern corporate website for SGB AGRO INDUSTRIES - Empowering Farmers Through Smart Agricultural Innovation",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
